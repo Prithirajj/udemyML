@@ -1,8 +1,3 @@
-"""
-Created on Mon Mar 27 21:02:14 2017
-
-@author: Robert
-"""
 
 """
 This code creates a number of classification plots with different 
