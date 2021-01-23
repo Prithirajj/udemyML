@@ -1,8 +1,4 @@
-"""
-Created on Tue Mar 21 19:50:08 2017
 
-@author: Robert
-"""
 ## Random forrest regression
 
 # Importing the libraries
