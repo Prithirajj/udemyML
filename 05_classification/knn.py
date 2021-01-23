@@ -1,8 +1,3 @@
-"""
-Created on Sun Mar 26 20:24:37 2017
-
-@author: Robert
-"""
 
 
 import pandas as pd
