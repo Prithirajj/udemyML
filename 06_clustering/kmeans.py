@@ -1,8 +1,4 @@
-"""
-Created on Wed Mar 29 21:42:38 2017
 
-@author: Robert
-"""
 
 import numpy as np
 import pandas as pd
